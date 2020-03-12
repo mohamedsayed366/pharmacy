@@ -1,3 +1,3 @@
-# pharmacy
+# Pharmacy
 pharmacy system
 ## project notes
